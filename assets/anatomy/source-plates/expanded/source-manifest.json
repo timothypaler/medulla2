@@ -1,0 +1,3672 @@
+{
+  "brachial-plexus": {
+    "anchors": {
+      "suprascapular": [
+        222.03,
+        280.58
+      ],
+      "long-thoracic": [
+        287.81,
+        192.52
+      ],
+      "root-0": [
+        416.43,
+        161.4
+      ],
+      "root-1": [
+        416.43,
+        188.85
+      ],
+      "root-2": [
+        416.43,
+        216.3
+      ],
+      "root-3": [
+        416.43,
+        243.75
+      ],
+      "root-4": [
+        416.43,
+        271.21
+      ],
+      "superior-trunk": [
+        338.24,
+        161.62
+      ],
+      "middle-trunk": [
+        335.54,
+        216.3
+      ],
+      "inferior-trunk": [
+        335.54,
+        271.21
+      ],
+      "superior-anterior": [
+        259.51,
+        161.62
+      ],
+      "superior-posterior": [
+        284.86,
+        174.46
+      ],
+      "middle-anterior": [
+        270.84,
+        190.18
+      ],
+      "middle-posterior": [
+        270.84,
+        216.3
+      ],
+      "inferior-anterior": [
+        270.84,
+        271.21
+      ],
+      "inferior-posterior": [
+        270.84,
+        244.42
+      ],
+      "lateral-cord": [
+        160.29,
+        161.62
+      ],
+      "posterior-cord": [
+        160.29,
+        216.3
+      ],
+      "medial-cord": [
+        160.29,
+        271.21
+      ],
+      "musculocutaneous": [
+        36.27,
+        161.62
+      ],
+      "axillary": [
+        36.27,
+        188.41
+      ],
+      "radial": [
+        36.27,
+        243.09
+      ],
+      "ulnar": [
+        36.27,
+        271.21
+      ],
+      "lateral-median-root": [
+        68.62,
+        185.31
+      ],
+      "medial-median-root": [
+        68.62,
+        245.53
+      ],
+      "median": [
+        25.48,
+        216.3
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray808.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray808.png",
+      "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918); Brachial plexus.svg: Selket\nderivative work: mcstrother (Marshall Strother)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray808.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray808.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "creator": "Brachial plexus.svg: Selket\nderivative work: mcstrother (Marshall Strother)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg"
+      }
+    ],
+    "view": "Right neck & axilla \u00b7 anterior \u00b7 Plexus network \u00b7 roots at image right",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "suprascapular": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.439,
+          0.523
+        ],
+        "sourceFile": "limb-assets/Gray808.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray808.png",
+        "viewId": "in-situ"
+      },
+      "long-thoracic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.574,
+          0.309
+        ],
+        "sourceFile": "limb-assets/Gray808.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray808.png",
+        "viewId": "in-situ"
+      },
+      "root-0": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.88,
+          0.215
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "root-1": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.88,
+          0.339
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "root-2": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.88,
+          0.463
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "root-3": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.88,
+          0.587
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "root-4": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.88,
+          0.711
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "superior-trunk": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.735,
+          0.216
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "middle-trunk": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.73,
+          0.463
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "inferior-trunk": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.73,
+          0.711
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "superior-anterior": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.589,
+          0.216
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "superior-posterior": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.636,
+          0.274
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "middle-anterior": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.61,
+          0.345
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "middle-posterior": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.61,
+          0.463
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "inferior-anterior": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.61,
+          0.711
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "inferior-posterior": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.61,
+          0.59
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "lateral-cord": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.405,
+          0.216
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "posterior-cord": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.405,
+          0.463
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "medial-cord": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.405,
+          0.711
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "musculocutaneous": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.175,
+          0.216
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "axillary": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.175,
+          0.337
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "radial": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.175,
+          0.584
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "ulnar": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.175,
+          0.711
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "lateral-median-root": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.235,
+          0.323
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "medial-median-root": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.235,
+          0.595
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      },
+      "median": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.155,
+          0.463
+        ],
+        "sourceFile": "limb-assets/Brachial_plexus_color.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brachial_plexus_color.svg",
+        "viewId": "network"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "lower-limb-nerves": {
+    "anchors": {
+      "femoral": [
+        115.18,
+        348.77
+      ],
+      "obturator": [
+        161.59,
+        329.05
+      ],
+      "lateral-femoral-cutaneous": [
+        75.28,
+        312.71
+      ],
+      "genitofemoral": [
+        264.18,
+        265.59
+      ],
+      "sciatic": [
+        222.49,
+        179.31
+      ],
+      "tibial": [
+        219.56,
+        316.61
+      ],
+      "common-fibular": [
+        240.57,
+        274.0
+      ],
+      "superior-gluteal": [
+        222.98,
+        81.3
+      ],
+      "inferior-gluteal": [
+        237.8,
+        103.55
+      ],
+      "posterior-femoral-cutaneous": [
+        203.92,
+        165.1
+      ],
+      "deep-fibular": [
+        228.28,
+        387.63
+      ],
+      "superficial-fibular": [
+        207.95,
+        360.64
+      ],
+      "saphenous": [
+        245.55,
+        207.71
+      ],
+      "pudendal": [
+        336.46,
+        341.13
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray823.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray823.png",
+      "https://commons.wikimedia.org/wiki/File:Gray832.png",
+      "https://commons.wikimedia.org/wiki/File:Gray827.png",
+      "https://commons.wikimedia.org/wiki/File:Gray829.png"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray823.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray823.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray832.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray827.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray827.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray829.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray829.png"
+      }
+    ],
+    "view": "Lumbar plexus \u00b7 anterior dissection \u00b7 Right lower limb \u00b7 posterior \u00b7 Right lower limb \u00b7 anterior \u00b7 Sacral plexus \u00b7 medial pelvic wall",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "femoral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.245,
+          0.663
+        ],
+        "sourceFile": "limb-assets/Gray823.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray823.png",
+        "viewId": "lumbar"
+      },
+      "obturator": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.359,
+          0.622
+        ],
+        "sourceFile": "limb-assets/Gray823.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray823.png",
+        "viewId": "lumbar"
+      },
+      "lateral-femoral-cutaneous": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.147,
+          0.588
+        ],
+        "sourceFile": "limb-assets/Gray823.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray823.png",
+        "viewId": "lumbar"
+      },
+      "genitofemoral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.611,
+          0.49
+        ],
+        "sourceFile": "limb-assets/Gray823.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray823.png",
+        "viewId": "lumbar"
+      },
+      "sciatic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.55,
+          0.3
+        ],
+        "sourceFile": "limb-assets/Gray832.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "viewId": "posterior"
+      },
+      "tibial": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.532,
+          0.59
+        ],
+        "sourceFile": "limb-assets/Gray832.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "viewId": "posterior"
+      },
+      "common-fibular": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.661,
+          0.5
+        ],
+        "sourceFile": "limb-assets/Gray832.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "viewId": "posterior"
+      },
+      "superior-gluteal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.553,
+          0.093
+        ],
+        "sourceFile": "limb-assets/Gray832.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "viewId": "posterior"
+      },
+      "inferior-gluteal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.644,
+          0.14
+        ],
+        "sourceFile": "limb-assets/Gray832.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "viewId": "posterior"
+      },
+      "posterior-femoral-cutaneous": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.436,
+          0.27
+        ],
+        "sourceFile": "limb-assets/Gray832.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray832.png",
+        "viewId": "posterior"
+      },
+      "deep-fibular": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.534,
+          0.74
+        ],
+        "sourceFile": "limb-assets/Gray827.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray827.png",
+        "viewId": "anterior"
+      },
+      "superficial-fibular": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.421,
+          0.683
+        ],
+        "sourceFile": "limb-assets/Gray827.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray827.png",
+        "viewId": "anterior"
+      },
+      "saphenous": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.63,
+          0.36
+        ],
+        "sourceFile": "limb-assets/Gray827.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray827.png",
+        "viewId": "anterior"
+      },
+      "pudendal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.73,
+          0.631
+        ],
+        "sourceFile": "limb-assets/Gray829.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray829.png",
+        "viewId": "pelvic"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "cerebral-arteries": {
+    "anchors": {
+      "internal-carotid": [
+        205.0,
+        219.23
+      ],
+      "anterior-cerebral": [
+        214.9,
+        200.5
+      ],
+      "anterior-communicating": [
+        226.44,
+        208.93
+      ],
+      "middle-cerebral": [
+        156.74,
+        202.85
+      ],
+      "posterior-communicating": [
+        209.95,
+        233.74
+      ],
+      "posterior-cerebral": [
+        203.35,
+        252.93
+      ],
+      "basilar": [
+        223.97,
+        294.6
+      ],
+      "vertebral": [
+        205.82,
+        355.92
+      ],
+      "superior-cerebellar": [
+        206.23,
+        277.28
+      ],
+      "anterior-inferior-cerebellar": [
+        208.71,
+        310.98
+      ],
+      "posterior-inferior-cerebellar": [
+        249.95,
+        392.44
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg"
+    ],
+    "creator": "Henry Vandyke Carter; Jmarchn (SVG adaptation)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "creator": "Henry Vandyke Carter; Jmarchn (SVG adaptation)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg"
+      }
+    ],
+    "view": "Brain arterial supply \u00b7 inferior surface",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "internal-carotid": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.459,
+          0.383
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "anterior-cerebral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.483,
+          0.343
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "anterior-communicating": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.511,
+          0.361
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "middle-cerebral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.342,
+          0.348
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "posterior-communicating": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.471,
+          0.414
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "posterior-cerebral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.455,
+          0.455
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "basilar": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.505,
+          0.544
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "vertebral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.461,
+          0.675
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "superior-cerebellar": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.462,
+          0.507
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "anterior-inferior-cerebellar": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.468,
+          0.579
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      },
+      "posterior-inferior-cerebellar": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.568,
+          0.753
+        ],
+        "sourceFile": "neuro-assets/Henry_Gray_Figura_516.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Henry_Gray_Figura_516.svg",
+        "viewId": "inferior"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "abdominal-arteries": {
+    "anchors": {
+      "aorta": [
+        232.58,
+        319.21
+      ],
+      "renal": [
+        173.69,
+        243.67
+      ],
+      "gonadal": [
+        272.74,
+        304.87
+      ],
+      "common-iliac": [
+        259.35,
+        410.05
+      ],
+      "external-iliac": [
+        302.63,
+        468.39
+      ],
+      "internal-iliac": [
+        277.65,
+        451.65
+      ],
+      "celiac": [
+        151.74,
+        309.09
+      ],
+      "left-gastric": [
+        153.05,
+        279.08
+      ],
+      "splenic": [
+        258.47,
+        334.02
+      ],
+      "common-hepatic": [
+        123.98,
+        302.63
+      ],
+      "gastroduodenal": [
+        98.82,
+        339.1
+      ],
+      "proper-hepatic": [
+        104.46,
+        291.08
+      ],
+      "superior-mesenteric": [
+        154.35,
+        409.28
+      ],
+      "inferior-mesenteric": [
+        297.63,
+        330.85
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray531.png",
+      "https://commons.wikimedia.org/wiki/File:Gray533.png"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "trunk-assets/Gray531.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "trunk-assets/Gray533.png"
+      }
+    ],
+    "view": "Abdominal aorta \u00b7 anterior dissection \u00b7 Foregut vessels \u00b7 stomach reflected \u00b7 Posterior abdominal vessels \u00b7 anterior",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "aorta": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.482,
+          0.6
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "posterior-wall"
+      },
+      "renal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.35,
+          0.442
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "posterior-wall"
+      },
+      "gonadal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.572,
+          0.57
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "posterior-wall"
+      },
+      "common-iliac": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.542,
+          0.79
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "posterior-wall"
+      },
+      "external-iliac": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.639,
+          0.912
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "posterior-wall"
+      },
+      "internal-iliac": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.583,
+          0.877
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "posterior-wall"
+      },
+      "celiac": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.344,
+          0.576
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "left-gastric": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.347,
+          0.511
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "splenic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.59,
+          0.63
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "common-hepatic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.28,
+          0.562
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "gastroduodenal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.222,
+          0.641
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "proper-hepatic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.235,
+          0.537
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "superior-mesenteric": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.35,
+          0.793
+        ],
+        "sourceFile": "trunk-assets/Gray533.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray533.png",
+        "viewId": "celiac"
+      },
+      "inferior-mesenteric": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.595,
+          0.748
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "mesenteric"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "spinal-section": {
+    "anchors": {
+      "gray-commissure": [
+        212.11,
+        281.16
+      ],
+      "dorsal-horn": [
+        152.27,
+        193.98
+      ],
+      "ventral-horn": [
+        153.9,
+        315.05
+      ],
+      "lateral-horn": [
+        146.53,
+        273.4
+      ],
+      "central-canal": [
+        226.05,
+        278.69
+      ],
+      "gracile-fasciculus": [
+        205.55,
+        200.33
+      ],
+      "cuneate-fasciculus": [
+        178.5,
+        164.68
+      ],
+      "lateral-corticospinal": [
+        111.28,
+        229.98
+      ],
+      "spinothalamic": [
+        329.34,
+        348.58
+      ],
+      "anterior-white-commissure": [
+        225.23,
+        297.05
+      ],
+      "dorsal-root": [
+        211.2,
+        223.25
+      ],
+      "dorsal-root-ganglion": [
+        148.76,
+        293.28
+      ],
+      "ventral-root": [
+        233.82,
+        323.25
+      ],
+      "spinal-nerve": [
+        83.15,
+        324.51
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+      "https://commons.wikimedia.org/wiki/File:Spinal_nerve_Sympathetic_ganglion_multilingual.svg"
+    ],
+    "creator": "Polarlys and Mikael H\u00e4ggstr\u00f6m; Jmarchn",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "creator": "Polarlys and Mikael H\u00e4ggstr\u00f6m",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "creator": "Jmarchn",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceFile": "extra-assets/Spinal_nerve_Sympathetic_ganglion_multilingual.svg"
+      }
+    ],
+    "view": "Upper thoracic cord \u00b7 transverse section \u00b7 Spinal nerve roots \u00b7 sectional relationship",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "gray-commissure": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.484,
+          0.539
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "dorsal-horn": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.411,
+          0.292
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "ventral-horn": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.413,
+          0.635
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "lateral-horn": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.404,
+          0.517
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "central-canal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.501,
+          0.532
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "gracile-fasciculus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.476,
+          0.31
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "cuneate-fasciculus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.443,
+          0.209
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "lateral-corticospinal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.361,
+          0.394
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "spinothalamic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.627,
+          0.73
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "anterior-white-commissure": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.5,
+          0.584
+        ],
+        "sourceFile": "neuro-assets/Spinal_cord_tracts_-_English.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_cord_tracts_-_English.svg",
+        "viewId": "cord"
+      },
+      "dorsal-root": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.487,
+          0.169
+        ],
+        "sourceFile": "extra-assets/Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "viewId": "roots"
+      },
+      "dorsal-root-ganglion": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.349,
+          0.391
+        ],
+        "sourceFile": "extra-assets/Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "viewId": "roots"
+      },
+      "ventral-root": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.537,
+          0.486
+        ],
+        "sourceFile": "extra-assets/Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "viewId": "roots"
+      },
+      "spinal-nerve": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.204,
+          0.49
+        ],
+        "sourceFile": "extra-assets/Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spinal_nerve_Sympathetic_ganglion_multilingual.svg",
+        "viewId": "roots"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "cranial-foramina": {
+    "anchors": {
+      "cribriform": [
+        226.17,
+        141.3
+      ],
+      "optic-canal": [
+        256.66,
+        197.44
+      ],
+      "superior-orbital-fissure": [
+        282.07,
+        196.98
+      ],
+      "rotundum": [
+        271.51,
+        221.1
+      ],
+      "ovale": [
+        282.85,
+        250.34
+      ],
+      "spinosum": [
+        297.31,
+        259.15
+      ],
+      "magnum": [
+        221.09,
+        351.02
+      ],
+      "internal-acoustic": [
+        140.75,
+        312.49
+      ],
+      "jugular": [
+        141.43,
+        351.61
+      ],
+      "hypoglossal": [
+        139.38,
+        367.65
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+      "https://commons.wikimedia.org/wiki/File:Gray193.png"
+    ],
+    "creator": "Sch\u00e4delbasis1.jpg: Welleschik\nderivative work: Mcstrother (talk); Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "creator": "Sch\u00e4delbasis1.jpg: Welleschik\nderivative work: Mcstrother (talk)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray193.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray193.png"
+      }
+    ],
+    "view": "Cranial base \u00b7 superior view \u00b7 Right cranial base \u00b7 internal surface",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "cribriform": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.503,
+          0.214
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "optic-canal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.581,
+          0.335
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "superior-orbital-fissure": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.646,
+          0.334
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "rotundum": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.619,
+          0.386
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "ovale": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.648,
+          0.449
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "spinosum": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.685,
+          0.468
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "magnum": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.49,
+          0.666
+        ],
+        "sourceFile": "neuro-assets/Skull_foramina_labeled.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skull_foramina_labeled.svg",
+        "viewId": "base"
+      },
+      "internal-acoustic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.574,
+          0.545
+        ],
+        "sourceFile": "extra-assets/Gray193.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray193.png",
+        "viewId": "petrous"
+      },
+      "jugular": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.575,
+          0.584
+        ],
+        "sourceFile": "extra-assets/Gray193.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray193.png",
+        "viewId": "petrous"
+      },
+      "hypoglossal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.572,
+          0.6
+        ],
+        "sourceFile": "extra-assets/Gray193.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray193.png",
+        "viewId": "petrous"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-upper-courses": {
+    "anchors": {
+      "brachial": [
+        242.74,
+        207.45
+      ],
+      "deep-brachial": [
+        259.12,
+        75.17
+      ],
+      "radial": [
+        204.88,
+        264.53
+      ],
+      "anterior-interosseous": [
+        211.74,
+        127.4
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray526.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray526.png",
+      "https://commons.wikimedia.org/wiki/File:Gray527.png",
+      "https://commons.wikimedia.org/wiki/File:Slide8MMMM.JPG"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918); Anatomist90",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray526.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray526.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray527.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray527.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slide8MMMM.JPG",
+        "creator": "Anatomist90",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceFile": "extra-assets/Slide8MMMM.JPG"
+      }
+    ],
+    "view": "Right arm arteries \u00b7 anterior \u00b7 Right forearm \u00b7 anterior dissection \u00b7 Anterior forearm \u00b7 deep dissection",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "brachial": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.549,
+          0.363
+        ],
+        "sourceFile": "limb-assets/Gray526.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray526.png",
+        "viewId": "arm"
+      },
+      "deep-brachial": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.585,
+          0.085
+        ],
+        "sourceFile": "limb-assets/Gray526.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray526.png",
+        "viewId": "arm"
+      },
+      "radial": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.356,
+          0.48
+        ],
+        "sourceFile": "limb-assets/Gray527.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray527.png",
+        "viewId": "forearm"
+      },
+      "anterior-interosseous": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.441,
+          0.206
+        ],
+        "sourceFile": "extra-assets/Slide8MMMM.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slide8MMMM.JPG",
+        "viewId": "interosseous"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-lower-vessels": {
+    "anchors": {
+      "femoral": [
+        232.65,
+        221.22
+      ],
+      "great-saphenous": [
+        163.34,
+        327.77
+      ],
+      "dorsalis-pedis": [
+        215.71,
+        200.61
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray549.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray549.png",
+      "https://commons.wikimedia.org/wiki/File:Gray554.png"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray549.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray549.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray554.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray554.png"
+      }
+    ],
+    "view": "Right femoral triangle \u00b7 anterior \u00b7 Right leg & dorsal foot \u00b7 anterior",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "femoral": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.537,
+          0.4
+        ],
+        "sourceFile": "limb-assets/Gray549.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray549.png",
+        "viewId": "femoral-triangle"
+      },
+      "great-saphenous": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.383,
+          0.617
+        ],
+        "sourceFile": "limb-assets/Gray549.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray549.png",
+        "viewId": "femoral-triangle"
+      },
+      "dorsalis-pedis": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.455,
+          0.345
+        ],
+        "sourceFile": "extra-assets/Gray554.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray554.png",
+        "viewId": "dorsum"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-thoracic-relations": {
+    "anchors": {
+      "transverse-pericardial-sinus": [
+        185.46,
+        272.5
+      ],
+      "fibrous-pericardium": [
+        214.08,
+        294.09
+      ],
+      "phrenic": [
+        182.8,
+        303.18
+      ],
+      "costodiaphragmatic-recess": [
+        396.99,
+        385.71
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray489.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray489.png",
+      "https://commons.wikimedia.org/wiki/File:Gray806.png",
+      "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918); OpenStax College",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray489.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray489.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray806.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray806.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "creator": "OpenStax College",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceFile": "respiratory-assets/pleura-source.jpg"
+      }
+    ],
+    "view": "Opened pericardial sac \u00b7 anterior \u00b7 Mediastinum \u00b7 anterior dissection \u00b7 Pleura & diaphragm \u00b7 anterior cutaway",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "transverse-pericardial-sinus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.445,
+          0.512
+        ],
+        "sourceFile": "extra-assets/Gray489.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray489.png",
+        "viewId": "pericardial-sac"
+      },
+      "fibrous-pericardium": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.506,
+          0.547
+        ],
+        "sourceFile": "extra-assets/Gray806.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray806.png",
+        "viewId": "phrenic"
+      },
+      "phrenic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.422,
+          0.566
+        ],
+        "sourceFile": "extra-assets/Gray806.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray806.png",
+        "viewId": "phrenic"
+      },
+      "costodiaphragmatic-recess": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.548,
+          0.633
+        ],
+        "sourceFile": "respiratory-assets/pleura-source.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "viewId": "pleural-recess"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-posterior-thorax": {
+    "anchors": {
+      "thoracic-duct": [
+        237.58,
+        265.06
+      ],
+      "greater-thoracic-splanchnic": [
+        255.89,
+        345.02
+      ],
+      "anterior-interventricular": [
+        277.75,
+        362.78
+      ],
+      "coronary-sinus": [
+        205.85,
+        346.78
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray599.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray599.png",
+      "https://commons.wikimedia.org/wiki/File:Gray846.png",
+      "https://commons.wikimedia.org/wiki/File:Gray490.png",
+      "https://commons.wikimedia.org/wiki/File:Gray491.png"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray599.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "trunk-assets/Gray599.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray846.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray846.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray490.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray490.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray491.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray491.png"
+      }
+    ],
+    "view": "Thoracic lymphatic course \u00b7 posterior \u00b7 Posterior mediastinum \u00b7 lateral dissection \u00b7 Heart & lungs \u00b7 anterior \u00b7 Heart \u00b7 posterior surface",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "thoracic-duct": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.568,
+          0.476
+        ],
+        "sourceFile": "trunk-assets/Gray599.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray599.png",
+        "viewId": "thoracic-duct"
+      },
+      "greater-thoracic-splanchnic": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.595,
+          0.65
+        ],
+        "sourceFile": "extra-assets/Gray846.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray846.png",
+        "viewId": "sympathetic"
+      },
+      "anterior-interventricular": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.628,
+          0.689
+        ],
+        "sourceFile": "extra-assets/Gray490.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray490.png",
+        "viewId": "anterior-coronary"
+      },
+      "coronary-sinus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.506,
+          0.627
+        ],
+        "sourceFile": "extra-assets/Gray491.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray491.png",
+        "viewId": "posterior-coronary"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-abdominal-relations": {
+    "anchors": {
+      "portal-vein": [
+        189.73,
+        141.66
+      ],
+      "common-bile-duct": [
+        236.55,
+        442.9
+      ],
+      "left-renal-vein": [
+        254.98,
+        270.42
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray591.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray591.png",
+      "https://commons.wikimedia.org/wiki/File:Gray1095-gall_bladder.png",
+      "https://commons.wikimedia.org/wiki/File:Gray531.png"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray591.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray591.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray1095-gall_bladder.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray1095-gall_bladder.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "trunk-assets/Gray531.png"
+      }
+    ],
+    "view": "Portal circulation \u00b7 anterior dissection \u00b7 Gallbladder & ducts \u00b7 opened specimen \u00b7 Posterior abdominal wall \u00b7 anterior",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "portal-vein": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.397,
+          0.224
+        ],
+        "sourceFile": "extra-assets/Gray591.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray591.png",
+        "viewId": "portal"
+      },
+      "common-bile-duct": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.55,
+          0.864
+        ],
+        "sourceFile": "extra-assets/Gray1095-gall_bladder.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray1095-gall_bladder.png",
+        "viewId": "biliary"
+      },
+      "left-renal-vein": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.542,
+          0.43
+        ],
+        "sourceFile": "trunk-assets/Gray531.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray531.png",
+        "viewId": "renal"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-inguinal-wall": {
+    "anchors": {
+      "inguinal-triangle": [
+        141.75,
+        258.53
+      ],
+      "inferior-epigastric": [
+        137.01,
+        203.18
+      ],
+      "deep-inguinal-ring": [
+        195.24,
+        258.14
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inguinal_Region_Interior_View.jpg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Inguinal_Region_Interior_View.jpg"
+    ],
+    "creator": "Dennis M. DePace, PhD",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inguinal_Region_Interior_View.jpg",
+        "creator": "Dennis M. DePace, PhD",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceFile": "trunk-assets/Inguinal_Region_Interior_View.jpg"
+      }
+    ],
+    "view": "Right inguinal wall \u00b7 internal view",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "inguinal-triangle": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.307,
+          0.465
+        ],
+        "sourceFile": "trunk-assets/Inguinal_Region_Interior_View.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inguinal_Region_Interior_View.jpg",
+        "viewId": "internal"
+      },
+      "inferior-epigastric": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.296,
+          0.322
+        ],
+        "sourceFile": "trunk-assets/Inguinal_Region_Interior_View.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inguinal_Region_Interior_View.jpg",
+        "viewId": "internal"
+      },
+      "deep-inguinal-ring": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.431,
+          0.464
+        ],
+        "sourceFile": "trunk-assets/Inguinal_Region_Interior_View.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inguinal_Region_Interior_View.jpg",
+        "viewId": "internal"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-perineal-relations": {
+    "anchors": {
+      "pudendal-canal": [
+        311.24,
+        359.87
+      ],
+      "inferior-rectal": [
+        275.99,
+        380.13
+      ],
+      "corpus-spongiosum": [
+        221.17,
+        286.9
+      ],
+      "pelvic-splanchnics": [
+        341.89,
+        363.28
+      ],
+      "puborectalis": [
+        174.19,
+        286.96
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray542.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray542.png",
+      "https://commons.wikimedia.org/wiki/File:Gray1158.png",
+      "https://commons.wikimedia.org/wiki/File:Gray829.png",
+      "https://commons.wikimedia.org/wiki/File:(155)_Stylized_depiction_of_action_of_puborectalis_sling.png"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918); Tepi",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray542.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "pelvic-larynx-assets/Gray542.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray1158.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray1158.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray829.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "limb-assets/Gray829.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:(155)_Stylized_depiction_of_action_of_puborectalis_sling.png",
+        "creator": "Tepi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceFile": "extra-assets/(155)_Stylized_depiction_of_action_of_puborectalis_sling.png"
+      }
+    ],
+    "view": "Male perineum \u00b7 inferior dissection \u00b7 Penile erectile bodies \u00b7 ventrolateral dissection \u00b7 Pelvic autonomic course \u00b7 medial wall \u00b7 Anorectal sling \u00b7 oblique sectional view",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "pudendal-canal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.577,
+          0.646
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray542.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray542.png",
+        "viewId": "perineum"
+      },
+      "inferior-rectal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.521,
+          0.684
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray542.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray542.png",
+        "viewId": "perineum"
+      },
+      "corpus-spongiosum": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.499,
+          0.505
+        ],
+        "sourceFile": "extra-assets/Gray1158.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray1158.png",
+        "viewId": "erectile-body"
+      },
+      "pelvic-splanchnics": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.745,
+          0.67
+        ],
+        "sourceFile": "limb-assets/Gray829.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray829.png",
+        "viewId": "pelvic-wall"
+      },
+      "puborectalis": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.408,
+          0.526
+        ],
+        "sourceFile": "extra-assets/(155)_Stylized_depiction_of_action_of_puborectalis_sling.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:(155)_Stylized_depiction_of_action_of_puborectalis_sling.png",
+        "viewId": "anorectal"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-neural-pathways": {
+    "anchors": {
+      "optic-chiasm": [
+        225.39,
+        221.57
+      ],
+      "oculomotor": [
+        199.69,
+        249.87
+      ],
+      "abducens": [
+        195.8,
+        306.48
+      ],
+      "hypoglossal": [
+        189.18,
+        347.78
+      ],
+      "medial-lemniscus": [
+        193.15,
+        253.53
+      ],
+      "pyramidal-decussation": [
+        225.0,
+        334.76
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+      "https://commons.wikimedia.org/wiki/File:Lower_pons_horizontal_KB.svg",
+      "https://commons.wikimedia.org/wiki/File:Gray687.png"
+    ],
+    "creator": "Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist; Marshall Strother; locator source by Patrick J. Lynch (locator omitted in this adaptation); Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+        "creator": "Patrick J. Lynch, medical illustrator; C. Carl Jaffe, MD, cardiologist",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+        "sourceFile": "neuro-assets/brain-inferior.svg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lower_pons_horizontal_KB.svg",
+        "creator": "Marshall Strother; locator source by Patrick J. Lynch (locator omitted in this adaptation)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceFile": "neuro-assets/Lower_pons_horizontal_KB.svg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray687.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "neuro-assets/Gray687.png"
+      }
+    ],
+    "view": "Brain & cranial nerves \u00b7 inferior \u00b7 Caudal pons \u00b7 transverse section \u00b7 Caudal medulla \u00b7 transverse section",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "optic-chiasm": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.501,
+          0.387
+        ],
+        "sourceFile": "neuro-assets/brain-inferior.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+        "viewId": "brain-base"
+      },
+      "oculomotor": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.435,
+          0.448
+        ],
+        "sourceFile": "neuro-assets/brain-inferior.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+        "viewId": "brain-base"
+      },
+      "abducens": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.425,
+          0.57
+        ],
+        "sourceFile": "neuro-assets/brain-inferior.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+        "viewId": "brain-base"
+      },
+      "hypoglossal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.408,
+          0.659
+        ],
+        "sourceFile": "neuro-assets/brain-inferior.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brain_human_normal_inferior_view_with_labels_en-2.svg",
+        "viewId": "brain-base"
+      },
+      "medial-lemniscus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.51,
+          0.468
+        ],
+        "sourceFile": "neuro-assets/Lower_pons_horizontal_KB.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lower_pons_horizontal_KB.svg",
+        "viewId": "lower-pons"
+      },
+      "pyramidal-decussation": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.515,
+          0.671
+        ],
+        "sourceFile": "neuro-assets/Gray687.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray687.png",
+        "viewId": "medulla"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-laryngeal-relations": {
+    "anchors": {
+      "left-recurrent-laryngeal": [
+        317.44,
+        406.24
+      ],
+      "external-laryngeal": [
+        201.71,
+        260.08
+      ],
+      "posterior-cricoarytenoid": [
+        235.28,
+        347.55
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recurrent_laryngeal_nerve.svg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Recurrent_laryngeal_nerve.svg",
+      "https://commons.wikimedia.org/wiki/File:Gray958.png"
+    ],
+    "creator": "Jkwchui, based on Truth-seeker2004; Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recurrent_laryngeal_nerve.svg",
+        "creator": "Jkwchui, based on Truth-seeker2004",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceFile": "pelvic-larynx-assets/Recurrent_laryngeal_nerve.svg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray958.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray958.png"
+      }
+    ],
+    "view": "Left vagal branches \u00b7 lateral \u00b7 Laryngeal muscles \u00b7 posterior",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "left-recurrent-laryngeal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.758,
+          0.785
+        ],
+        "sourceFile": "pelvic-larynx-assets/Recurrent_laryngeal_nerve.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recurrent_laryngeal_nerve.svg",
+        "viewId": "vagus"
+      },
+      "external-laryngeal": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.435,
+          0.47
+        ],
+        "sourceFile": "pelvic-larynx-assets/Recurrent_laryngeal_nerve.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Recurrent_laryngeal_nerve.svg",
+        "viewId": "vagus"
+      },
+      "posterior-cricoarytenoid": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.424,
+          0.629
+        ],
+        "sourceFile": "extra-assets/Gray958.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray958.png",
+        "viewId": "posterior-muscles"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "clinical-spinal-orientation": {
+    "anchors": {
+      "coronal-plane": [
+        318.72,
+        144.08
+      ],
+      "sagittal-plane": [
+        187.84,
+        86.08
+      ],
+      "transverse-plane": [
+        318.72,
+        224.35
+      ],
+      "subarachnoid-space": [
+        225.42,
+        215.78
+      ],
+      "cauda-equina": [
+        209.66,
+        307.2
+      ],
+      "ligamentum-flavum": [
+        254.58,
+        256.44
+      ],
+      "dens": [
+        162.67,
+        139.86
+      ],
+      "intervertebral-foramen": [
+        196.83,
+        231.01
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Human_anatomy_planes,_labeled.svg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Human_anatomy_planes,_labeled.svg",
+      "https://commons.wikimedia.org/wiki/File:Gray770.png",
+      "https://commons.wikimedia.org/wiki/File:Gray661.png",
+      "https://commons.wikimedia.org/wiki/File:Gray301.png",
+      "https://commons.wikimedia.org/wiki/File:Gray87.png",
+      "https://commons.wikimedia.org/wiki/File:Gray91.png"
+    ],
+    "creator": "David Richfield; Mikael H\u00e4ggstr\u00f6m, MD; CMG Lee; Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Human_anatomy_planes,_labeled.svg",
+        "creator": "David Richfield; Mikael H\u00e4ggstr\u00f6m, MD; CMG Lee",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "sourceFile": "body-assets/human-planes-source.svg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray770.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "neuro-assets/Gray770.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray661.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "neuro-assets/Gray661.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray301.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray301.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray87.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray87.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray91.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray91.png"
+      }
+    ],
+    "view": "Body reference planes \u00b7 anterior oblique \u00b7 Cord & meninges \u00b7 transverse section \u00b7 Vertebral canal \u00b7 sagittal section \u00b7 Lumbar vertebral canal \u00b7 sagittal \u00b7 Axis (C2) \u00b7 superior view \u00b7 Thoracic vertebrae \u00b7 lateral",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "coronal-plane": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.79,
+          0.22
+        ],
+        "sourceFile": "body-assets/human-planes-source.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Human_anatomy_planes,_labeled.svg",
+        "viewId": "planes"
+      },
+      "sagittal-plane": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.385,
+          0.095
+        ],
+        "sourceFile": "body-assets/human-planes-source.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Human_anatomy_planes,_labeled.svg",
+        "viewId": "planes"
+      },
+      "transverse-plane": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.79,
+          0.393
+        ],
+        "sourceFile": "body-assets/human-planes-source.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Human_anatomy_planes,_labeled.svg",
+        "viewId": "planes"
+      },
+      "subarachnoid-space": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.501,
+          0.156
+        ],
+        "sourceFile": "neuro-assets/Gray770.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray770.png",
+        "viewId": "meninges"
+      },
+      "cauda-equina": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.438,
+          0.57
+        ],
+        "sourceFile": "neuro-assets/Gray661.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray661.png",
+        "viewId": "cauda"
+      },
+      "ligamentum-flavum": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.57,
+          0.45
+        ],
+        "sourceFile": "extra-assets/Gray301.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray301.png",
+        "viewId": "ligaments"
+      },
+      "dens": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.348,
+          0.164
+        ],
+        "sourceFile": "extra-assets/Gray87.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray87.png",
+        "viewId": "axis"
+      },
+      "intervertebral-foramen": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.363,
+          0.587
+        ],
+        "sourceFile": "extra-assets/Gray91.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray91.png",
+        "viewId": "foramen"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "upper-respiratory": {
+    "anchors": {
+      "nostril": [
+        408.97,
+        251.96
+      ],
+      "nasal-vestibule": [
+        397.94,
+        230.26
+      ],
+      "sphenoidal-sinus": [
+        188.3,
+        141.45
+      ],
+      "nasopharynx": [
+        132.34,
+        256.57
+      ],
+      "oropharynx": [
+        139.43,
+        374.31
+      ],
+      "laryngopharynx": [
+        118.16,
+        444.7
+      ],
+      "soft-palate": [
+        189.09,
+        284.2
+      ],
+      "hard-palate": [
+        277.36,
+        261.17
+      ],
+      "uvula": [
+        148.1,
+        311.17
+      ],
+      "palatine-tonsil": [
+        147.32,
+        337.48
+      ],
+      "pharyngeal-tonsil": [
+        132.34,
+        200.66
+      ],
+      "lingual-tonsil": [
+        172.54,
+        367.08
+      ],
+      "auditory-opening": [
+        137.07,
+        216.44
+      ],
+      "olfactory-epithelium": [
+        255.29,
+        136.19
+      ],
+      "superior-concha": [
+        240.96,
+        252.66
+      ],
+      "middle-concha": [
+        223.71,
+        294.24
+      ],
+      "inferior-concha": [
+        232.76,
+        331.37
+      ],
+      "superior-meatus": [
+        258.21,
+        267.19
+      ],
+      "middle-meatus": [
+        240.09,
+        309.98
+      ],
+      "inferior-meatus": [
+        250.44,
+        354.38
+      ],
+      "sphenoethmoidal-recess": [
+        265.11,
+        203.01
+      ],
+      "choana": [
+        301.33,
+        325.72
+      ],
+      "nasal-septum": [
+        234.55,
+        285.75
+      ],
+      "frontal-sinus": [
+        190.08,
+        222.86
+      ],
+      "ethmoidal-cells": [
+        208.79,
+        258.37
+      ],
+      "maxillary-sinus": [
+        172.22,
+        327.97
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+      "https://commons.wikimedia.org/wiki/File:Gray855.png",
+      "https://commons.wikimedia.org/wiki/File:Gray854.png",
+      "https://commons.wikimedia.org/wiki/File:Paranasal_sinuses.svg"
+    ],
+    "creator": "OpenStax College; Henry Vandyke Carter; Gray\u2019s Anatomy (1918); Head_anatomy_anterior_lateral_views.svg: Patrick J. Lynch, medical illustrator\nderivative work: M\u2022Komorniczak -talk-, polish wikipedist.\n\n\n\n\n\nIllustration by\u00a0: Micha\u0142 Komorniczak\n\n\n\n\n\n\n\n\nThis file has been released into the Creative Commons 3.0. Attribution-ShareAlike (CC BY-SA 3.0)\nIf you use on your website or in your publication my images (either original or modified), you are requested to give me details: Micha\u0142 Komorniczak (Poland) or Michal Komorniczak (Poland).\nFor more information, write to my e-mail address: m.komorniczak.pl@gmail.com",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "creator": "OpenStax College",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "respiratory-assets/Gray855.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray854.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "respiratory-assets/Gray854.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paranasal_sinuses.svg",
+        "creator": "Head_anatomy_anterior_lateral_views.svg: Patrick J. Lynch, medical illustrator\nderivative work: M\u2022Komorniczak -talk-, polish wikipedist.\n\n\n\n\n\nIllustration by\u00a0: Micha\u0142 Komorniczak\n\n\n\n\n\n\n\n\nThis file has been released into the Creative Commons 3.0. Attribution-ShareAlike (CC BY-SA 3.0)\nIf you use on your website or in your publication my images (either original or modified), you are requested to give me details: Micha\u0142 Komorniczak (Poland) or Michal Komorniczak (Poland).\nFor more information, write to my e-mail address: m.komorniczak.pl@gmail.com",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "sourceFile": "respiratory-assets/sinuses.svg"
+      }
+    ],
+    "view": "Upper airway \u00b7 midsagittal section \u00b7 Nasal cavity \u00b7 lateral wall \u00b7 Nasal septum \u00b7 medial wall \u00b7 Paranasal sinuses \u00b7 anterior projection",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "nostril": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.711,
+          0.319
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "nasal-vestibule": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.697,
+          0.286
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "sphenoidal-sinus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.431,
+          0.151
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "nasopharynx": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.36,
+          0.326
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "oropharynx": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.369,
+          0.505
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "laryngopharynx": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.342,
+          0.612
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "soft-palate": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.432,
+          0.368
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "hard-palate": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.544,
+          0.333
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "uvula": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.38,
+          0.409
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "palatine-tonsil": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.379,
+          0.449
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "pharyngeal-tonsil": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.36,
+          0.241
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "lingual-tonsil": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.411,
+          0.494
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "auditory-opening": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.366,
+          0.265
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "olfactory-epithelium": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.516,
+          0.143
+        ],
+        "sourceFile": "respiratory-assets/upper-airway-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2303_Anatomy_of_Nose-Pharynx-Mouth-Larynx.jpg",
+        "viewId": "sagittal"
+      },
+      "superior-concha": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.537,
+          0.445
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "middle-concha": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.497,
+          0.548
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "inferior-concha": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.518,
+          0.64
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "superior-meatus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.577,
+          0.481
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "middle-meatus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.535,
+          0.587
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "inferior-meatus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.559,
+          0.697
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "sphenoethmoidal-recess": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.593,
+          0.322
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "choana": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.677,
+          0.626
+        ],
+        "sourceFile": "respiratory-assets/Gray855.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray855.png",
+        "viewId": "lateral-nose"
+      },
+      "nasal-septum": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.525,
+          0.53
+        ],
+        "sourceFile": "respiratory-assets/Gray854.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray854.png",
+        "viewId": "septum"
+      },
+      "frontal-sinus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.182,
+          0.387
+        ],
+        "sourceFile": "respiratory-assets/sinuses.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paranasal_sinuses.svg",
+        "viewId": "sinuses"
+      },
+      "ethmoidal-cells": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.204,
+          0.462
+        ],
+        "sourceFile": "respiratory-assets/sinuses.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paranasal_sinuses.svg",
+        "viewId": "sinuses"
+      },
+      "maxillary-sinus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.161,
+          0.609
+        ],
+        "sourceFile": "respiratory-assets/sinuses.svg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paranasal_sinuses.svg",
+        "viewId": "sinuses"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  },
+  "lower-respiratory": {
+    "anchors": {
+      "epiglottis": [
+        218.03,
+        140.92
+      ],
+      "thyroid-cartilage": [
+        264.77,
+        210.64
+      ],
+      "cricoid-cartilage": [
+        216.99,
+        360.91
+      ],
+      "arytenoid-cartilage": [
+        249.88,
+        271.88
+      ],
+      "corniculate-cartilage": [
+        231.53,
+        237.96
+      ],
+      "cuneiform-cartilage": [
+        301.84,
+        353.13
+      ],
+      "aryepiglottic-fold": [
+        336.57,
+        301.96
+      ],
+      "vocal-fold": [
+        252.58,
+        252.28
+      ],
+      "rima-glottidis": [
+        216.58,
+        296.49
+      ],
+      "vestibular-fold": [
+        205.88,
+        249.85
+      ],
+      "laryngeal-ventricle": [
+        211.77,
+        265.95
+      ],
+      "laryngeal-vestibule": [
+        237.67,
+        191.62
+      ],
+      "infraglottic-cavity": [
+        234.73,
+        335.08
+      ],
+      "trachea": [
+        207.92,
+        233.79
+      ],
+      "tracheal-cartilage": [
+        216.46,
+        266.62
+      ],
+      "carina": [
+        201.99,
+        350.38
+      ],
+      "right-main-bronchus": [
+        171.18,
+        354.66
+      ],
+      "left-main-bronchus": [
+        247.27,
+        359.42
+      ],
+      "right-superior-lobar-bronchus": [
+        120.32,
+        344.19
+      ],
+      "right-middle-lobar-bronchus": [
+        134.06,
+        393.69
+      ],
+      "right-inferior-lobar-bronchus": [
+        149.28,
+        434.14
+      ],
+      "left-superior-lobar-bronchus": [
+        309.26,
+        378.94
+      ],
+      "left-inferior-lobar-bronchus": [
+        297.01,
+        437.47
+      ],
+      "right-superior-lobe": [
+        146.94,
+        151.18
+      ],
+      "right-middle-lobe": [
+        84.84,
+        273.0
+      ],
+      "right-inferior-lobe": [
+        124.52,
+        392.29
+      ],
+      "left-superior-lobe": [
+        308.23,
+        158.75
+      ],
+      "left-inferior-lobe": [
+        350.06,
+        384.72
+      ],
+      "right-horizontal-fissure": [
+        108.56,
+        225.43
+      ],
+      "right-oblique-fissure": [
+        130.13,
+        317.69
+      ],
+      "left-oblique-fissure": [
+        342.73,
+        328.14
+      ],
+      "terminal-bronchiole": [
+        205.05,
+        94.82
+      ],
+      "respiratory-bronchiole": [
+        203.22,
+        207.82
+      ],
+      "alveolar-duct": [
+        195.93,
+        264.86
+      ],
+      "alveolar-sac": [
+        122.95,
+        345.57
+      ],
+      "alveolus": [
+        155.79,
+        377.85
+      ],
+      "type-one-cell": [
+        412.3,
+        303.36
+      ],
+      "type-two-cell": [
+        249.39,
+        444.61
+      ],
+      "alveolar-macrophage": [
+        165.0,
+        251.26
+      ],
+      "pulmonary-capillary": [
+        363.23,
+        200.32
+      ],
+      "respiratory-membrane": [
+        410.34,
+        245.47
+      ],
+      "alveolar-pore": [
+        304.35,
+        199.16
+      ],
+      "diaphragm": [
+        267.33,
+        425.36
+      ],
+      "costodiaphragmatic-recess": [
+        397.11,
+        384.17
+      ],
+      "parietal-pleura": [
+        284.19,
+        221.94
+      ],
+      "visceral-pleura": [
+        284.19,
+        419.91
+      ],
+      "pleural-cavity": [
+        318.11,
+        474.83
+      ]
+    },
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+    "sourceUrls": [
+      "https://commons.wikimedia.org/wiki/File:Gray952.png",
+      "https://commons.wikimedia.org/wiki/File:Gray956.png",
+      "https://commons.wikimedia.org/wiki/File:Gray954.png",
+      "https://commons.wikimedia.org/wiki/File:Gray961.png",
+      "https://commons.wikimedia.org/wiki/File:Gray962.png",
+      "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+      "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg"
+    ],
+    "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918); OpenStax College",
+    "license": "Individual source licences",
+    "licenseUrl": "/anatomy-credits.md",
+    "sourceCredits": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray952.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray956.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "pelvic-larynx-assets/Gray956.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray954.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "pelvic-larynx-assets/Gray954.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray961.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "creator": "Henry Vandyke Carter; Gray\u2019s Anatomy (1918)",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "sourceFile": "extra-assets/Gray962.png"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "creator": "OpenStax College",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg"
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "creator": "OpenStax College",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "sourceFile": "respiratory-assets/pleura-source.jpg"
+      }
+    ],
+    "view": "Laryngeal framework \u00b7 posterior \u00b7 Laryngeal inlet \u00b7 superior view \u00b7 Larynx \u00b7 coronal section \u00b7 Trachea & lobar bronchi \u00b7 anterior \u00b7 Lung lobes & fissures \u00b7 anterior dissection \u00b7 Respiratory unit \u00b7 enlarged terminal airways \u00b7 Alveolar wall \u00b7 enlarged anatomical inset \u00b7 Pleural reflections \u00b7 anterior cutaway \u00b7 Pleural layers \u00b7 enlarged chest wall",
+    "limitations": [
+      "Multiple source views; pins identify visible representative points, not a complete boundary or all anatomical variants."
+    ],
+    "targetMetadata": {
+      "epiglottis": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.303,
+          0.215
+        ],
+        "sourceFile": "extra-assets/Gray952.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+        "viewId": "framework"
+      },
+      "thyroid-cartilage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.438,
+          0.363
+        ],
+        "sourceFile": "extra-assets/Gray952.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+        "viewId": "framework"
+      },
+      "cricoid-cartilage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.3,
+          0.682
+        ],
+        "sourceFile": "extra-assets/Gray952.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+        "viewId": "framework"
+      },
+      "arytenoid-cartilage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.395,
+          0.493
+        ],
+        "sourceFile": "extra-assets/Gray952.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+        "viewId": "framework"
+      },
+      "corniculate-cartilage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.342,
+          0.421
+        ],
+        "sourceFile": "extra-assets/Gray952.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray952.png",
+        "viewId": "framework"
+      },
+      "cuneiform-cartilage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.465,
+          0.696
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray956.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray956.png",
+        "viewId": "inlet"
+      },
+      "aryepiglottic-fold": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.52,
+          0.593
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray956.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray956.png",
+        "viewId": "inlet"
+      },
+      "vocal-fold": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.387,
+          0.493
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray956.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray956.png",
+        "viewId": "inlet"
+      },
+      "rima-glottidis": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.33,
+          0.582
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray956.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray956.png",
+        "viewId": "inlet"
+      },
+      "vestibular-fold": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.49,
+          0.449
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray954.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray954.png",
+        "viewId": "cavities"
+      },
+      "laryngeal-ventricle": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.51,
+          0.483
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray954.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray954.png",
+        "viewId": "cavities"
+      },
+      "laryngeal-vestibule": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.598,
+          0.326
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray954.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray954.png",
+        "viewId": "cavities"
+      },
+      "infraglottic-cavity": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.588,
+          0.629
+        ],
+        "sourceFile": "pelvic-larynx-assets/Gray954.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray954.png",
+        "viewId": "cavities"
+      },
+      "trachea": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.454,
+          0.418
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "tracheal-cartilage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.477,
+          0.487
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "carina": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.438,
+          0.663
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "right-main-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.355,
+          0.672
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "left-main-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.56,
+          0.682
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "right-superior-lobar-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.218,
+          0.65
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "right-middle-lobar-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.255,
+          0.754
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "right-inferior-lobar-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.296,
+          0.839
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "left-superior-lobar-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.727,
+          0.723
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "left-inferior-lobar-bronchus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.694,
+          0.846
+        ],
+        "sourceFile": "extra-assets/Gray961.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray961.png",
+        "viewId": "bronchial-tree"
+      },
+      "right-superior-lobe": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.319,
+          0.137
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "right-middle-lobe": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.175,
+          0.475
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "right-inferior-lobe": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.267,
+          0.806
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "left-superior-lobe": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.693,
+          0.158
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "left-inferior-lobe": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.79,
+          0.785
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "right-horizontal-fissure": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.23,
+          0.343
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "right-oblique-fissure": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.28,
+          0.599
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "left-oblique-fissure": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.773,
+          0.628
+        ],
+        "sourceFile": "extra-assets/Gray962.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gray962.png",
+        "viewId": "lung-lobes"
+      },
+      "terminal-bronchiole": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.117,
+          0.069
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "respiratory-unit"
+      },
+      "respiratory-bronchiole": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.116,
+          0.174
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "respiratory-unit"
+      },
+      "alveolar-duct": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.112,
+          0.227
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "respiratory-unit"
+      },
+      "alveolar-sac": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.072,
+          0.302
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "respiratory-unit"
+      },
+      "alveolus": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.09,
+          0.332
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "respiratory-unit"
+      },
+      "type-one-cell": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.206,
+          0.718
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "alveolar-wall"
+      },
+      "type-two-cell": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.123,
+          0.84
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "alveolar-wall"
+      },
+      "alveolar-macrophage": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.08,
+          0.673
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "alveolar-wall"
+      },
+      "pulmonary-capillary": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.181,
+          0.629
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "alveolar-wall"
+      },
+      "respiratory-membrane": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.205,
+          0.668
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "alveolar-wall"
+      },
+      "alveolar-pore": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.151,
+          0.628
+        ],
+        "sourceFile": "respiratory-assets/respiratory-zone-openstax.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone.jpg",
+        "viewId": "alveolar-wall"
+      },
+      "diaphragm": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.37,
+          0.708
+        ],
+        "sourceFile": "respiratory-assets/pleura-source.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "viewId": "pleura"
+      },
+      "costodiaphragmatic-recess": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.548,
+          0.633
+        ],
+        "sourceFile": "respiratory-assets/pleura-source.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "viewId": "pleura"
+      },
+      "parietal-pleura": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.904,
+          0.312
+        ],
+        "sourceFile": "respiratory-assets/pleura-source.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "viewId": "pleural-layers"
+      },
+      "visceral-pleura": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.904,
+          0.467
+        ],
+        "sourceFile": "respiratory-assets/pleura-source.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "viewId": "pleural-layers"
+      },
+      "pleural-cavity": {
+        "highlightMode": "source-specific-pin",
+        "sourceCoordinate": [
+          0.924,
+          0.51
+        ],
+        "sourceFile": "respiratory-assets/pleura-source.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2313_The_Lung_Pleurea.jpg",
+        "viewId": "pleural-layers"
+      }
+    },
+    "reviewStatus": "source-mapped-draft-needs-anatomist-review",
+    "adaptation": "Source anatomy retained; editorial labels removed or masked; palette adapted; aspect-preserving placement; explicit per-view target coordinates."
+  }
+}

@@ -1,0 +1,9 @@
+MEDULLA — CLOUDFLARE PAGES
+
+Extract this ZIP, then upload the extracted files to Cloudflare Pages as static assets.
+index.html must be directly at the top level. Keep the anatomy folder and body-selector-v3.webp beside it; upload the whole extracted package.
+Do not create a Worker. No build command, database or environment variables are needed for this ready-built package.
+For a Git-connected deployment of the SOURCE project, use npm run build and output directory dist.
+
+Open index.html with JavaScript enabled in a browser. A phone file preview may not run the app; use the hosted Pages URL.
+Study progress stays in the current browser. See anatomy-credits.md for artwork sources and licences.

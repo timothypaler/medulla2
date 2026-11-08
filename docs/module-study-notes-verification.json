@@ -1,0 +1,319 @@
+{
+  "checkedOn": "2026-11-08",
+  "records": {
+    "back-applied": {
+      "sourceUrls": [
+        "https://neuroanatomy.wisc.edu/SClinic/Radiculo/Radiculopathy.htm",
+        "https://sites.google.com/umich.edu/anatomy503/lab-materials/block-2-labs-9-16/13-deep-back-spinal-cord",
+        "https://med.stanford.edu/stanfordmedicine25/the25/BackExam.html"
+      ],
+      "retrievalRefs": [
+        "turn3852775search11",
+        "turn7024633search7"
+      ],
+      "scopeChecked": "Root territories, disc/foramen distinction and canal-space relationships; exact intervention sequences are not taught.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "ul-vessels-lymph": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/musculoskeletal_system/axilla_tables.html",
+        "https://anatomy.ttuhscep.edu/anatomytables/lymph_upperlimb.html",
+        "https://anatomy.ttuhscep.edu/anatomytables/arteries_upperlimb.html"
+      ],
+      "retrievalRefs": [
+        "turn7024633search0",
+        "turn7024633search2",
+        "turn7024633search4"
+      ],
+      "scopeChecked": "Arterial continuity and superficial/deep venous versus lymphatic routes.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "ll-neurovascular": {
+      "sourceUrls": [
+        "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-lower-limb/",
+        "https://anatomy.ttuhscep.edu/musculoskeletal_system/thigh_tables.html",
+        "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/lymphatic-tables/lymphatics-of-the-lower-limb/"
+      ],
+      "retrievalRefs": [
+        "turn7367112search21",
+        "turn4743428search1"
+      ],
+      "scopeChecked": "Named nerve courses, femoral/popliteal continuity and superficial venous versus lymphatic routes.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "ab-applied": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/gastrointestinal_system/inguinal.html",
+        "https://nba.uth.tmc.edu/neuroscience/m/s2/chapter07.html",
+        "https://anatomy.ttuhscep.edu/gastrointestinal_system/duodenum.html"
+      ],
+      "retrievalRefs": [
+        "turn2388146search39",
+        "turn3566755search7",
+        "turn2388146search1"
+      ],
+      "scopeChecked": "Hernia landmarks, visceral/somatic afferent convergence and adjacent duodenopancreatic/biliary relationships.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "pv-neurovascular": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/reproductive_system/pelvicvisc_tables.html",
+        "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/lymphatic-tables/lymphatics-of-the-pelvis-and-perineum/",
+        "https://web2.facs.org/cstage0205/testis/Testis_ddf.html"
+      ],
+      "retrievalRefs": [
+        "turn7367112search20",
+        "turn4743428search0",
+        "turn4743428search5"
+      ],
+      "scopeChecked": "Pelvic routes and distinction between pelvic/external genital and abdominal gonadal lymphatic drainage.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "pv-applied": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/anatomytables/muscles_pelvis_perineum.html",
+        "https://anatomy.ttuhscep.edu/reproductive_system/pelvicvisc_tables.html",
+        "https://pubmed.ncbi.nlm.nih.gov/23218679/"
+      ],
+      "retrievalRefs": [
+        "turn7024633search3",
+        "turn5137927view3",
+        "turn7367112search20"
+      ],
+      "scopeChecked": "Musculofascial support, puborectalis/sphincter distinction and ureteral regional relationships; no treatment inference.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "hn-neck": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/nervous_system/antneck_ans.html",
+        "https://anatomy.ttuhscep.edu/nervous_system/deepneck_tables.html",
+        "https://cosmos.phy.tufts.edu/~rwillson/dentgross/headneck/invest.htm"
+      ],
+      "retrievalRefs": [
+        "turn7367112search1",
+        "turn7367112search12",
+        "turn6442019search7"
+      ],
+      "scopeChecked": "Triangles, sheath contents, scalene relationships and fascial compartments.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "hn-applied": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/anatomytables/bones_head_neck.html",
+        "https://anatomy.ttuhscep.edu/nervous_system/eye_tables.html",
+        "https://anatomy.ttuhscep.edu/nervous_system/antneck_ans.html"
+      ],
+      "retrievalRefs": [
+        "turn6442019search0",
+        "turn7367112search1"
+      ],
+      "scopeChecked": "General localization framework, foraminal and orbital routes; specific disease-spread scenarios are outside this guide.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "nr-blood-meninges": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/anatomytables/arteries_head_neck.html",
+        "https://anatomy.ttuhscep.edu/anatomytables/veins_head_neck.html",
+        "https://nba.uth.tmc.edu/neuroanatomy/l4/Lab04p01_index.html"
+      ],
+      "retrievalRefs": [
+        "turn5137927view1",
+        "turn9149273search0"
+      ],
+      "scopeChecked": "Principal arterial territories, meningeal compartments and dural sinus organization.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "nr-brainstem": {
+      "sourceUrls": [
+        "https://nba.uth.tmc.edu/neuroscience/s2/chapter01.html",
+        "https://nba.uth.tmc.edu/neuroanatomy/L9/Lab09p33_index.html",
+        "https://neurologicexam.med.utah.edu/adult/html/cranialnerve_anatomy.html"
+      ],
+      "retrievalRefs": [
+        "turn6442019search31",
+        "turn2902989search0",
+        "turn2902989search1"
+      ],
+      "scopeChecked": "Brainstem levels, nuclei versus external fibers and combined long-tract/cranial-nerve localization.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "nr-forebrain": {
+      "sourceUrls": [
+        "https://nba.uth.tmc.edu/neuroanatomy/L5/Lab05p10_index.html",
+        "https://nba.uth.tmc.edu/neuroanatomy/L11/Lab11p06_index.html",
+        "https://nba.uth.tmc.edu/neuroscience/s2/chapter01.html"
+      ],
+      "retrievalRefs": [
+        "turn6442019search35",
+        "turn7367112search0",
+        "turn6442019search31"
+      ],
+      "scopeChecked": "Gross thalamic/hypothalamic relationships, internal-capsule pathways and hippocampal–fornix connections.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "nr-localization": {
+      "sourceUrls": [
+        "https://nba.uth.tmc.edu/neuroanatomy/L9/Lab09p33_index.html",
+        "https://nba.uth.tmc.edu/neuroscience/m/s2/chapter05.html",
+        "https://anatomy.ttuhscep.edu/anatomytables/arteries_head_neck.html"
+      ],
+      "retrievalRefs": [
+        "turn2902989search0"
+      ],
+      "scopeChecked": "Anatomical reasoning about crossings and lesion levels, not an independent diagnostic algorithm.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "img-orientation": {
+      "sourceUrls": [
+        "https://www.rcr.ac.uk/exams-training/undergraduate-clinical-radiology/undergraduate-curriculum-clinical-radiology/",
+        "https://www.uvm.edu/~rchawla/series_home/ct/ct_print.html",
+        "https://healthsciences.missouri.edu/radiography/sectional-anatomy-tool/"
+      ],
+      "retrievalRefs": [
+        "turn9149273search1",
+        "turn2388146search26",
+        "turn2388146search41"
+      ],
+      "scopeChecked": "Image/section orientation and modality context. Actual visual recognition still requires permitted images.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "img-regional": {
+      "sourceUrls": [
+        "https://radiology.med.ubc.ca/education/undergraduate/",
+        "https://healthsciences.missouri.edu/radiography/sectional-anatomy-tool/",
+        "https://www.rcr.ac.uk/exams-training/undergraduate-clinical-radiology/undergraduate-curriculum-clinical-radiology/"
+      ],
+      "retrievalRefs": [
+        "turn2388146search28",
+        "turn2388146search41",
+        "turn9149273search1"
+      ],
+      "scopeChecked": "Regional continuity across sectional views and correlation between gross anatomy and radiographic appearance.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "emb-early-neural": {
+      "sourceUrls": [
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Gastrulation",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Neural_System_Development",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/?title=BGDA_Practical_7_-_Week_3"
+      ],
+      "retrievalRefs": [
+        "turn2902989search3",
+        "turn9149273search2",
+        "turn2902989search4"
+      ],
+      "scopeChecked": "Germ-layer formation, neurulation/neural crest distinction and folding orientation; no exact day-by-day timing is asserted.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "emb-msk-head": {
+      "sourceUrls": [
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Somitogenesis",
+        "https://embryology.oit.duke.edu/embryoModules/limb/limb.html",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Pharyngeal_arches"
+      ],
+      "retrievalRefs": [
+        "turn3566755search3",
+        "turn3566755search35",
+        "turn2902989search2"
+      ],
+      "scopeChecked": "Somitic contributions, developing limb axes and distinction between pharyngeal arch, pouch, cleft and membrane.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "emb-thoracoabdominal": {
+      "sourceUrls": [
+        "https://medicine.nus.edu.sg/medixperience/learning-resource/cardiovascular-embryology/",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Respiratory_System_-_Diaphragm",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Gastrointestinal_Tract_Development"
+      ],
+      "retrievalRefs": [
+        "turn3566755search24",
+        "turn2902989search5",
+        "turn3017550search4"
+      ],
+      "scopeChecked": "Staged heart remodeling, multiple diaphragm contributions and gut herniation/rotation overview.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "emb-urogenital-applied": {
+      "sourceUrls": [
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Lecture_-_Renal_Development",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Renal_System_Development",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/?title=ANAT2341_Lab_8_-_Late_Embryo"
+      ],
+      "retrievalRefs": [
+        "turn3017550search5",
+        "turn3566755search6",
+        "turn3566755search11"
+      ],
+      "scopeChecked": "Urinary induction, collecting/nephron contribution distinction, shared ducts and relative renal ascent. Detailed genital differentiation is not asserted.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "nr-autonomics": {
+      "sourceUrls": [
+        "https://anatomy.ttuhscep.edu/anatomytables/nerves_abdomen.html",
+        "https://anatomy.ttuhscep.edu/modules/intro_autonomics_2_module/autonomics_09.html",
+        "https://anatomy.ttuhscep.edu/anatomytables/nerves_head_neck.html"
+      ],
+      "retrievalRefs": [
+        "turn9387262view3",
+        "turn3017550search2",
+        "turn3017550search1"
+      ],
+      "scopeChecked": "Thoracolumbar and craniosacral routes, pre/postganglionic distinctions and mixed visceral plexuses.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    },
+    "emb-placenta-fetal": {
+      "sourceUrls": [
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Placenta_-_Membranes",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Placenta_-_Cord",
+        "https://embryology.med.unsw.edu.au/embryology/index.php/Cardiovascular_System_-_Fetal_Shunts"
+      ],
+      "retrievalRefs": [
+        "turn9149273search6",
+        "turn9149273search12",
+        "turn6442019search11"
+      ],
+      "scopeChecked": "Maternal/fetal membrane contributions, umbilical-vessel naming and separate fetal shunt routes.",
+      "verificationMethod": "Assistant comparison with accessible primary university/professional teaching text or official indexed extracts. Study-method guidance is an original synthesis; independent expert review is pending.",
+      "changes": "Unsupported breadth was narrowed where needed; full-coverage requirements retained separately.",
+      "reviewStatus": "draft-needs-anatomist-review"
+    }
+  }
+}

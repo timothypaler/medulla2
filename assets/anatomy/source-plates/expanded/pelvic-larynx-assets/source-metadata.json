@@ -1,0 +1,537 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "561531": {
+        "pageid": 561531,
+        "ns": 6,
+        "title": "File:Gray403.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Gray403.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray403.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=561531",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-01-23 20:19:18",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gray403",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Media lacking a description|PD-old-100-expired|PD-scan (PD-old-100-expired)|Lateral cross-section of male genitourinary system|CC-PD-Mark|Gray's Anatomy plates of muscles",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "DateTimeOriginal": {
+                "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus403.html\">Plate 403</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831\u20131897)\">Henry Vandyke Carter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "531382": {
+        "pageid": 531382,
+        "ns": 6,
+        "title": "File:Gray408.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gray408.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray408.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=531382",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2010-02-27 12:08:01",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gray408",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Pelvic outlet|PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Gray's Anatomy plates of muscles|Anatomy of the human pelvic region|Female anogenital area diagrams",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Structure of vagina",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus408.html\">Plate 408</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831\u20131897)\">Henry Vandyke Carter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "541089": {
+        "pageid": 541089,
+        "ns": 6,
+        "title": "File:Gray542.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gray542.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray542.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=541089",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-01-23 19:51:03",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gray542",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Human penis (medical) in art|Gray's Anatomy plates of cardiovascular system",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Gray's anatomy of the perineum\u00a0<span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Gray542.png#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus542.html\">Plate 542</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831\u20131897)\">Henry Vandyke Carter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "792184": {
+        "pageid": 792184,
+        "ns": 6,
+        "title": "File:Gray840.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gray840.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray840.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=792184",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-01-23 17:17:08",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gray840",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Visual pathways|Gray's Anatomy plates of nervous system|Anatomy of the human central nervous system",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Sympathetic connections of the ciliary and superior cervical ganglia.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus840.html\">Plate 840</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831\u20131897)\">Henry Vandyke Carter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "244423": {
+        "pageid": 244423,
+        "ns": 6,
+        "title": "File:Gray955.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gray955.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray955.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=244423",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2005-07-29 04:59:17",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gray955",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Human larynx|Gray's Anatomy plates of respiratory system",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "The entrance to the larynx, viewed from behind.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus955.html\">Plate 955</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831\u20131897)\">Henry Vandyke Carter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "244425": {
+        "pageid": 244425,
+        "ns": 6,
+        "title": "File:Gray957.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Gray957.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gray957.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=244425",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2007-01-23 21:00:04",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Gray957",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "PD-old-100-expired|PD-scan (PD-old-100-expired)|CC-PD-Mark|Gray's Anatomy plates of respiratory system",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Side view of the larynx, showing muscular attachments.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "before 1858<div style=\"display: none;\">date QS:P,+1858-00-00T00:00:00Z/7,P1326,+1858-00-00T00:00:00Z/9</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<ul><li><cite class=\"book\" style=\"font-style:normal\"><a href=\"https://en.wikipedia.org/wiki/Henry_Gray\" class=\"extiw\" title=\"en:Henry Gray\">Henry Gray</a> (1918)      <i> Anatomy of the Human Body</i>  <small></small></cite> (See \"Book\" section below)</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Bartleby.com\" class=\"extiw\" title=\"en:Bartleby.com\">Bartleby.com</a>: <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/\">Gray's Anatomy</a>, <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bartleby.com/107/illus957.html\">Plate 957</a></li></ul>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henry_Vandyke_Carter\" class=\"extiw\" title=\"w:en:Henry Vandyke Carter\"><span title=\"English anatomist, illustrator of Gray's Anatomy (1831\u20131897)\">Henry Vandyke Carter</span></a></bdi>",
+                "source": "commons-desc-page"
+              },
+              "AuthorCount": {
+                "value": 2,
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

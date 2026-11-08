@@ -1,0 +1,58 @@
+/* Centered medical-study hero with the mascot anchored at the lower left. */
+.hero-centered{min-height:900px}
+.hero-centered .nitro-hero-inner{position:static;max-width:1440px;min-height:900px;padding:170px 44px 230px;margin:0 auto}
+.hero-centered .nitro-hero-copy{width:100%;max-width:1120px;margin:0 auto;text-align:center;pointer-events:auto}
+.hero-centered .nitro-hero-copy>.eyebrow{justify-content:center;font-size:10px;letter-spacing:2.1px}
+.hero-centered .nitro-hero-copy h1{font-size:clamp(76px,7.7vw,116px);line-height:1.02;letter-spacing:-.055em;margin:27px auto 29px;max-width:1100px}
+.hero-centered .nitro-hero-copy>p{max-width:650px;margin:0 auto;font-size:19px;line-height:1.8;color:#e4dcf5}
+.hero-centered .nitro-hero-actions{justify-content:center;gap:26px;margin-top:30px;flex-wrap:wrap}
+.hero-centered .nitro-hero-actions>.button{min-width:242px;min-height:56px;font-size:13px;padding:17px 25px}
+.hero-centered .hero-hand-link{font-size:12px;gap:7px}
+.hero-centered .nitro-caption{justify-content:center;margin-top:19px;font-size:11px;gap:8px}
+.hero-centered .nitro-hero-scene{right:auto;top:auto;left:max(0px,calc((100vw - 1500px)/2));bottom:45px;width:570px;height:570px;margin-right:0;transform:scale(.64);transform-origin:left bottom;pointer-events:none}
+.hero-centered .brain-buddy{top:0;left:15px;width:530px;height:530px}
+.hero-centered .nitro-hero-bottom{bottom:26px;left:50%;max-width:1360px;width:calc(100% - 80px);justify-content:center;gap:25px;font-size:9px;letter-spacing:1.4px}
+.hero-centered .nitro-hero-bottom>span{max-width:none;text-align:center}
+.hero-centered .nitro-hero-bottom>a{position:absolute;right:0;gap:13px}
+@media(max-width:1100px){
+ .hero-centered .nitro-hero-copy h1{font-size:clamp(70px,8.3vw,92px)}
+ .hero-centered .nitro-hero-copy>p{font-size:18px;max-width:620px}
+ .hero-centered .nitro-hero-scene{left:5px;transform:scale(.55);bottom:47px}
+}
+@media(max-width:900px){
+ .hero-centered{min-height:920px}
+ .hero-centered .nitro-hero-inner{min-height:920px;padding:150px 32px 330px}
+ .hero-centered .nitro-hero-copy h1{font-size:clamp(62px,9.5vw,85px);letter-spacing:-.055em}
+ .hero-centered .nitro-hero-copy>.eyebrow{font-size:9px;letter-spacing:1.6px}
+ .hero-centered .nitro-hero-copy>p{max-width:580px;font-size:17px}
+ .hero-centered .nitro-hero-scene{transform:scale(.55);left:16px;bottom:55px}
+ .hero-centered .nitro-hero-bottom{width:calc(100% - 64px);font-size:8px;justify-content:flex-end}
+ .hero-centered .nitro-hero-bottom>span{max-width:330px;text-align:right;line-height:1.8}
+ .hero-centered .nitro-hero-bottom>a{position:static;white-space:nowrap;font-size:8px}
+}
+@media(max-width:650px){
+ .hero-centered{min-height:970px}
+ .hero-centered .nitro-hero-inner{min-height:970px;padding:140px 24px 405px}
+ .hero-centered .nitro-hero-copy{max-width:100%;width:100%}
+ .hero-centered .nitro-hero-copy>.eyebrow{font-size:8px;letter-spacing:1.15px;line-height:1.7}
+ .hero-centered .nitro-hero-copy h1{font-size:clamp(35px,10.6vw,64px);line-height:1.08;letter-spacing:-.052em;margin:25px auto 25px;max-width:100%}
+ .hero-centered .nitro-hero-copy>p{font-size:15px;line-height:1.8;max-width:460px}
+ .hero-centered .nitro-hero-actions{gap:15px 20px;margin-top:25px}
+ .hero-centered .nitro-hero-actions>.button{font-size:11px;min-width:210px;min-height:50px;padding:15px 22px}
+ .hero-centered .hero-hand-link{font-size:10px;gap:5px}
+ .hero-centered .nitro-caption{font-size:9px;gap:6px;margin-top:18px;flex-wrap:wrap;line-height:1.7}
+ .hero-centered .nitro-hero-scene{top:auto;right:auto;left:12px;bottom:62px;transform:scale(.55);transform-origin:left bottom;margin-right:0}
+ .hero-centered .nitro-hero-bottom{bottom:20px;width:calc(100% - 44px);font-size:7px;letter-spacing:.9px;justify-content:space-between;gap:16px;align-items:flex-end}
+ .hero-centered .nitro-hero-bottom>span{max-width:190px;text-align:left;line-height:1.8}
+ .hero-centered .nitro-hero-bottom>a{position:static;font-size:7px;gap:8px}
+}
+@media(max-width:370px){
+ .hero-centered .nitro-hero-inner{padding-left:20px;padding-right:20px}
+ .hero-centered .nitro-hero-copy h1{font-size:clamp(32px,10.5vw,39px)}
+ .hero-centered .nitro-hero-copy>.eyebrow{font-size:7px;letter-spacing:.9px}
+ .hero-centered .nitro-hero-copy>p{font-size:14px}
+ .hero-centered .nitro-hero-actions>.button{min-width:195px}
+ .hero-centered .nitro-hero-scene{left:6px;transform:scale(.5)}
+ .hero-centered .nitro-hero-bottom>span{max-width:170px;font-size:6px}
+ .hero-centered .nitro-hero-bottom>a{font-size:6px}
+}

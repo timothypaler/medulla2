@@ -1,0 +1,182 @@
+[
+  {
+    "id": "upper-nerves",
+    "title": "UAMS: Nerves of the Upper Limb",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-upper-limb/",
+    "webRef": "turn3263506view0"
+  },
+  {
+    "id": "upper-arteries",
+    "title": "UAMS: Arteries of the Upper Limb",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-upper-limb/",
+    "webRef": "turn3263506view1"
+  },
+  {
+    "id": "forearm",
+    "title": "TTUHSC: Forearm and Wrist Tables",
+    "url": "https://anatomy.ttuhscep.edu/musculoskeletal_system/forearm_tables.html",
+    "webRef": "turn3263506view2"
+  },
+  {
+    "id": "lower-nerves",
+    "title": "TTUHSC: Lower Limb Nerve Tables",
+    "url": "https://anatomy.ttuhscep.edu/anatomytables/nerves_lowerlimb.html",
+    "webRef": "turn3263506view3"
+  },
+  {
+    "id": "leg",
+    "title": "TTUHSC: Leg and Foot Tables",
+    "url": "https://anatomy.ttuhscep.edu/musculoskeletal_system/leg_tables.html",
+    "webRef": "turn3263506view4"
+  },
+  {
+    "id": "lower-arteries",
+    "title": "UAMS: Arteries of the Lower Limb",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-lower-limb/",
+    "webRef": "turn3263506view5"
+  },
+  {
+    "id": "superficial-leg",
+    "title": "TTUHSC: Superficial Lower Limb Tables",
+    "url": "https://anatomy.ttuhscep.edu/musculoskeletal_system/superficial_limbs_tables.html",
+    "webRef": "turn3263506view6"
+  },
+  {
+    "id": "thorax-wall",
+    "title": "TTUHSC: Thoracic Wall Tables",
+    "url": "https://anatomy.ttuhscep.edu/schemes/thorax_wall_tables.html",
+    "webRef": "turn1634925view0"
+  },
+  {
+    "id": "thorax-nerves",
+    "title": "UAMS: Nerves of the Thorax",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-thorax/",
+    "webRef": "turn1634925view1"
+  },
+  {
+    "id": "heart",
+    "title": "TTUHSC: Heart Tables",
+    "url": "https://anatomy.ttuhscep.edu/cardiovascular_system/heart_tables.html",
+    "webRef": "turn1634925view2"
+  },
+  {
+    "id": "thorax-lymph",
+    "title": "UAMS: Lymphatics of the Thorax",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/lymphatic-tables/lymphatics-of-the-thorax/",
+    "webRef": "turn1634925view3"
+  },
+  {
+    "id": "duodenum",
+    "title": "TTUHSC: Duodenum, Pancreas and Liver Tables",
+    "url": "https://anatomy.ttuhscep.edu/gastrointestinal_system/duodenum_tables.html",
+    "webRef": "turn1634925view4"
+  },
+  {
+    "id": "bile",
+    "title": "TTUHSC: Duodenum Dissector Notes",
+    "url": "https://anatomy.ttuhscep.edu/gastrointestinal_system/duodenum_ans.html",
+    "webRef": "turn1634925view5"
+  },
+  {
+    "id": "inguinal",
+    "title": "TTUHSC: Inguinal Region Tables",
+    "url": "https://anatomy.ttuhscep.edu/schemes/abdo_wall_ing_tables.html",
+    "webRef": "turn1634925view6"
+  },
+  {
+    "id": "abdomen-arteries",
+    "title": "UAMS: Arteries of the Abdomen",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/artery-tables/arteries-of-the-abdomen/",
+    "webRef": "turn7533053view8"
+  },
+  {
+    "id": "pelvic-neuro",
+    "title": "TTUHSC: Pelvic Neurovasculature Notes",
+    "url": "https://anatomy.ttuhscep.edu/reproductive_system/pelvicwall_ans.html",
+    "webRef": "turn7533053view2"
+  },
+  {
+    "id": "reproductive",
+    "title": "TTUHSC: Reproductive System Tables",
+    "url": "https://anatomy.ttuhscep.edu/schemes/femalerepro_tables.html",
+    "webRef": "turn7533053view0"
+  },
+  {
+    "id": "perineum",
+    "title": "TTUHSC: Perineum Tables",
+    "url": "https://anatomy.ttuhscep.edu/reproductive_system/perineum_tables.html",
+    "webRef": "turn7533053view1"
+  },
+  {
+    "id": "head-nerves",
+    "title": "UAMS: Head and Neck Nerves",
+    "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-head-and-neck/",
+    "webRef": "turn7533053view4"
+  },
+  {
+    "id": "head-muscles",
+    "title": "TTUHSC: Head and Neck Muscles",
+    "url": "https://anatomy.ttuhscep.edu/anatomytables/muscles_head_neck.html",
+    "webRef": "turn7533053view5"
+  },
+  {
+    "id": "neck",
+    "title": "TTUHSC: Anterior Neck Tables",
+    "url": "https://anatomy.ttuhscep.edu/nervous_system/antneck_tables.html",
+    "webRef": "turn7533053view6"
+  },
+  {
+    "id": "skull",
+    "title": "TTUHSC: Head and Neck Bones",
+    "url": "https://anatomy.ttuhscep.edu/anatomytables/bones_head_neck.html",
+    "webRef": "turn7533053view7"
+  },
+  {
+    "id": "sensory",
+    "title": "OpenStax 2e: Central Processing",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-2-central-processing",
+    "webRef": "turn8126117view3"
+  },
+  {
+    "id": "autonomic",
+    "title": "OpenStax 2e: Central Control",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/15-3-central-control",
+    "webRef": "turn8126117view1"
+  },
+  {
+    "id": "motor",
+    "title": "OpenStax 2e: Motor Responses",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses",
+    "webRef": "turn8126117view2"
+  },
+  {
+    "id": "vascular-cortex",
+    "title": "Wisconsin: Motor Systems Coursebook",
+    "url": "https://www.neuroanatomy.wisc.edu/coursebook/motor1.pdf",
+    "webRef": "turn7797312view0"
+  },
+  {
+    "id": "vascular-extra",
+    "title": "Loyola: Cerebral Arterial Territories",
+    "url": "https://www.lumen.luc.edu/lumen/meded/neuro/neurovasc/navigation/aca.htm",
+    "webRef": "turn7797312view1"
+  },
+  {
+    "id": "planes",
+    "title": "OpenStax 2e: Anatomical Terminology",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "webRef": "turn8126117view4"
+  },
+  {
+    "id": "back",
+    "title": "TTUHSC: Back and Spinal Cord Tables",
+    "url": "https://anatomy.ttuhscep.edu/schemes/back_tables.html",
+    "webRef": "turn8126117view5"
+  },
+  {
+    "id": "vertebra",
+    "title": "OpenStax 2e: Vertebral Column",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column",
+    "webRef": "turn8126117view6"
+  }
+]

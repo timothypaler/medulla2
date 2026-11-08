@@ -1,0 +1,5 @@
+# Validation — Medulla 1.2
+
+Passed: 39 regions, 402 unique targets, 36 source-plate records plus 59 source-derived bone shapes, 58 new/updated source views, exact target/view membership, valid local artwork and source metadata, 60 module guides, 243 objective keys, nine reading figures, 64 canonical applied-case matches, capped grading and timer boundaries. TypeScript and static production build passed. The classic inline script parses, root and Pages HTML match, relative artwork files exist, and every Pages file is below 25 MiB.
+
+Browser checks: faceless body navigation and full brain display; respiratory view switching and target selection; expansion; timed starting clue; overlong text capped at 19 slots; immediate wrong feedback plus an extra clue; immediate correct grading, remaining time and revisit record. These are software and display checks, not independent clinical validation. Target mappings and medical teaching content remain subject to anatomist review. Direct file:// navigation is blocked in the managed test browser; HTTP browser checks and direct-open structural checks are used.
